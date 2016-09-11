@@ -69,7 +69,7 @@ padding-bottom: 200px;
 	background: url("../img/textura_2.jpg");
 	background-size: 100%;
 	padding-top: 70px;
-	padding-bottom: 200px;
+	padding-bottom: 100px;
 }
 
 .mono1{
@@ -92,3 +92,101 @@ padding-bottom: 200px;
 	border-radius: 5px;
 
 }
+
+
+.boton3{
+	background-color: #29088A
+	color:#6E6E6E;
+	font-size: 16px;
+	margin-left:370px;
+	padding-left: 90px;
+	padding-right:90px;
+	padding-top: 15px;
+	padding-bottom:35px;
+	height: 40px;
+	border-radius: 5px;
+	margin-top:500px;
+
+}
+
+col-6 .fondo3{
+	background: url("../img/instructor_4.jpg");
+	background-size: 50%;
+	background-repeat: no-repeat;
+	background-position: left;
+	
+}
+
+col-6 .fondo4{
+	background: url("../img/profesor_9.jpg");
+	background-size: 50%;
+	background-repeat: no-repeat;
+	background-position: right;
+	
+}
+
+.boton3{
+	background-color: #29088A
+	color:#6E6E6E;
+	font-size: 16px;
+	margin-left:370px;
+	padding-left: 90px;
+	padding-right:90px;
+	padding-top: 15px;
+	padding-bottom:35px;
+	height: 40px;
+	border-radius: 5px;
+	margin-top:500px;
+	}
+
+	.texto3{
+
+	color: blue;
+	font-size: 50px;
+	text-align: center;
+	font-style: italic;
+	background: url("../img/textura_2.jpg");
+	background-size: 100%;
+	padding-top: 70px;
+	padding-bottom: 100px;
+	}
+
+	.texto4{
+	padding-top: 20px;
+	color: white;
+	text-align: left;
+	width:40%;
+	font-size: 13px;
+
+
+	}
+
+	.texto5{
+	color: white;
+	text-align: left;
+	width:10%;
+	font-size: 14px;
+	}
+
+
+	.fondoazul{
+		background-color: #0B0B61;
+		margin-top: 10px;
+		height: 50%;
+	}
+
+	.titulo{
+		color: white;
+
+	}
+
+	iframe{
+
+		width: 40%;
+		height:200px;
+		position: relative;
+		margin-left: 600px;
+		margin-top: 5px;
+		margin-bottom: 500px;
+	}
+
